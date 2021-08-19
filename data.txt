@@ -1,0 +1,24 @@
+Attacker Fraction: DeathGuard
+Attacker Unit: Deathshroud Terminator
+Attacker Weapon/Profile: Manreaper - Cleave
+Attacker Armour: Terminator Armour
+Attacker Models: 5
+
+Blocker Fraction: DeathGuard
+Blocker Unit: Plague Marine
+Blocker Weapon/Profile: Manreaper - Cleave
+Blocker Armour:
+Blocker Models: 5
+
+Number Of Simulation = 1000
+
+Explodes: 0 mortal: 0
+Special AP: 0 roll: 0
+Re-Roll Wound: 0
+Re-Roll Hit: 0
+Re-Roll SV: 0
+Re-Roll INV: 0
+Add to wound roll: 0
+Add to hit roll: 0
+Add to SV roll: 0
+Add to INV roll: 0
